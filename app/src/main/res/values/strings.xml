@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BlueBook</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_selection">SelectionActivity</string>
+    <string name="title_activity_question">QuestionActivity</string>
+    <string name="title_activity_score">ScoreActivity</string>
+    <string name="default_ques">Tutorial:
+        Scroll down to see more...
+        \n\nThe question will be displayed here and the answers will be display bellow.
+        Select the correct answer to merit points, if answered incorrectly no points
+        will be accredited.
+        \n\nGood Luck!
+        \n\n>>Select the "Correct Answer" to proceed    </string>
+    <string name="default_ans">\tCorrect Answer</string>
+    <string name="copyright">(c) 2013-2014 JSTeng</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+
+</resources>
